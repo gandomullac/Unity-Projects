@@ -45,7 +45,7 @@ public class PlayerController : MonoBehaviour
         countText.text = "Count: " + count.ToString();
         if (count >= 3)
         {
-            winText.text = "Gege Culo";
+            winText.text = "You Win!";
         }
     }
 }
