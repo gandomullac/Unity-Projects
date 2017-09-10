@@ -23,6 +23,9 @@ ExportedObj/
 *.svd
 *.pdb
 
+# Desktop setting
+desktop.ini
+
 # Unity3D generated meta files
 *.pidb.meta
 
